@@ -1,0 +1,14 @@
+layout_spectrum: 0.3605907
+color:
+  saturation: 0.9613407
+  lightness: 0.2921695
+  brandStrength: 0.5550842
+  rhythmicContrast: 0.6492243
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.3871269
+name: The quiet woman
