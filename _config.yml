@@ -1,14 +1,29 @@
+name: The quiet woman
+favicon: null
 layout_spectrum: 0.3605907
+typography_spectrum: 0.3871269
+title: the quiet woman
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9613407
-  lightness: 0.2921695
-  brandStrength: 0.5550842
-  rhythmicContrast: 0.6492243
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-typography_spectrum: 0.3871269
-name: The quiet woman
+  brandStrength: 0.5550842
+  lightness: 0.2921695
+  saturation: 0.9613407
+  rhythmicContrast: 0.6492243
+purpose: []
